@@ -6,8 +6,8 @@
 #  **The Timeless Classic Original**
 
 ## A worldwide cultural phenomenon and the highest-grossing film of 1985,
-<em>Back to the Future</em> launched one of the most successful franchises in Universal's history, including two theatrical sequels,
-an animated television series, a theme park ride, a musical, toys, comic books, video games and apparel.</p>
+*Back to the Future* launched one of the most successful franchises in Universal's history, including two theatrical sequels,
+an animated television series, a theme park ride, a musical, toys, comic books, video games and apparel.
 
 ## The film has been inducted into the [National Film Registry](https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/)
 having been deemed "culturally, historically or aesthetically significant" and deserving of preservation by the Library of Congress.
@@ -24,4 +24,4 @@ preservation ensures that this timeless classic will be enjoyed by future audien
 
 [Back to the Future Wikipedia Page](https://en.wikipedia.org/wiki/Back_to_the_Future)
 
-System.out.println("Back to the Future, July 3rd 1985");
+' System.out.println("Back to the Future, July 3rd 1985"); '
