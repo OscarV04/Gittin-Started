@@ -14,8 +14,8 @@ having been deemed "culturally, historically or aesthetically significant" and d
 As one of the elite films selected as enduring importance to popular American culture,* Back to the Future*'s
 preservation ensures that this timeless classic will be enjoyed by future audiences throughout the rest of time!
 
-## When teenager Marty McFly (*Michael J. Fox*) is blasted to 1955 in the DeLorean time machine created by
- the eccentric Doc Brown (*Christopher Lloyd*), he finds himself mixed up in a 
+### When teenager Marty McFly (*Michael J. Fox*) is blasted to 1955 in the DeLorean time machine created by the eccentric Doc Brown (*Christopher Lloyd*),
+ he finds himself mixed up in a 
  time-altering chain reaction that could vaporize his future — and leave him trapped in the past.
  Powered by innovative special effects, unforgettable songs and non-stop action,
  *Back to the Future* is an unrivaled adventure that stands the test of time!
